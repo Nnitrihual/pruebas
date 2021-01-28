@@ -1,1 +1,2 @@
 0941. 🚀 perf: cache repeated calculations
+0053. ✅ test: increase coverage on auth module
