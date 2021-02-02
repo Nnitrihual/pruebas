@@ -1,3 +1,4 @@
 0941. 🚀 perf: cache repeated calculations
 0053. ✅ test: increase coverage on auth module
 0586. 🎨 style: remove trailing whitespace
+0051. ✨ feat: enable dark mode toggle
