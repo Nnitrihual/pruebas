@@ -5,3 +5,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0023. 📚 docs: clarify environment setup
 0284. ✨ feat: implement quiz timer feature
+0172. 📚 docs: add API usage examples
