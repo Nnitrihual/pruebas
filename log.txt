@@ -414,3 +414,4 @@
 0993. ✨ feat: implement quiz timer feature
 0987. ✨ feat: create admin dashboard
 0229. 🚀 perf: optimize database query for quiz results
+0096. 🐛 fix: prevent crash on empty input
