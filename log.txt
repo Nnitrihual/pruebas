@@ -12,3 +12,4 @@
 0699. 🎨 style: standardize quote style
 0884. 📚 docs: clarify environment setup
 0556. ✨ feat: support email verification
+0653. 🐛 fix: prevent crash on empty input
