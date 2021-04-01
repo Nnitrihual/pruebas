@@ -13,3 +13,4 @@
 0884. 📚 docs: clarify environment setup
 0556. ✨ feat: support email verification
 0653. 🐛 fix: prevent crash on empty input
+0265. 🎨 style: reformat files with black
