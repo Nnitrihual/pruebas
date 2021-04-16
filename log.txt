@@ -17,3 +17,4 @@
 0688. 🚀 perf: reduce image load time
 0221. ✨ feat: add user authentication
 0419. 🎨 style: remove trailing whitespace
+0838. 🎨 style: standardize quote style
