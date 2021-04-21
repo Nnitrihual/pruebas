@@ -20,3 +20,4 @@
 0838. 🎨 style: standardize quote style
 0547. 📚 docs: write FAQ section
 0766. 🎨 style: reformat files with black
+0598. 🔧 refactor: remove redundant code blocks
