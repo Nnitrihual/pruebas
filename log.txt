@@ -28,3 +28,4 @@
 0225. 🚀 perf: reduce image load time
 0473. 📚 docs: write FAQ section
 0367. 🐛 fix: fix null pointer exception on login
+0499. 🎨 style: reformat files with black
