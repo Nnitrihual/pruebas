@@ -32,3 +32,4 @@
 0902. ✨ feat: enable dark mode toggle
 0747. 🔧 refactor: clean up auth middleware
 0895. ✨ feat: support email verification
+0769. ✨ feat: create admin dashboard
