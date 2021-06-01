@@ -424,3 +424,4 @@
 0165. 🎨 style: remove trailing whitespace
 0420. 🚀 perf: reduce image load time
 0641. 📚 docs: write FAQ section
+0340. 🚀 perf: optimize database query for quiz results
