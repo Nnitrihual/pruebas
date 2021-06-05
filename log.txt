@@ -36,3 +36,4 @@
 0271. ✅ test: add unit test for quiz service
 0214. 📚 docs: improve code comments in utils
 0972. 🔧 refactor: refactor quiz grading logic
+1000. ✅ test: increase coverage on auth module
