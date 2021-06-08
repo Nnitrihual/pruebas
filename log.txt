@@ -38,3 +38,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 1000. ✅ test: increase coverage on auth module
 0707. 🎨 style: apply consistent indentation
+0674. 🔧 refactor: split large controller into smaller functions
