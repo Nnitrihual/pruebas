@@ -41,3 +41,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0974. ✨ feat: add export to CSV option
 0376. 🎨 style: apply consistent indentation
+0007. 🎨 style: rename variables for clarity
