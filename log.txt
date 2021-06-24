@@ -432,3 +432,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0297. 🎨 style: remove trailing whitespace
 0481. ✅ test: add unit test for quiz service
+0573. ✅ test: add integration test for /submit endpoint
