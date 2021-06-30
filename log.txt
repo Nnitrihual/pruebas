@@ -436,3 +436,4 @@
 0669. ✨ feat: enable dark mode toggle
 0257. 📚 docs: clarify environment setup
 0806. 📚 docs: improve code comments in utils
+0842. 🎨 style: remove trailing whitespace
