@@ -437,3 +437,4 @@
 0257. 📚 docs: clarify environment setup
 0806. 📚 docs: improve code comments in utils
 0842. 🎨 style: remove trailing whitespace
+0922. 📚 docs: write FAQ section
