@@ -439,3 +439,4 @@
 0842. 🎨 style: remove trailing whitespace
 0922. 📚 docs: write FAQ section
 0212. 🎨 style: standardize quote style
+0624. ✅ test: add unit test for quiz service
