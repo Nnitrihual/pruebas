@@ -443,3 +443,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0236. 🔧 refactor: remove redundant code blocks
 0608. 🔧 refactor: remove redundant code blocks
+0091. ✨ feat: add user authentication
