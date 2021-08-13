@@ -52,3 +52,4 @@
 0333. 🚀 perf: cache repeated calculations
 0407. 🚀 perf: cache repeated calculations
 0637. 🎨 style: apply consistent indentation
+0820. 📚 docs: add API usage examples
