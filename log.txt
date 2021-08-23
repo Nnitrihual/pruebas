@@ -54,3 +54,4 @@
 0637. 🎨 style: apply consistent indentation
 0820. 📚 docs: add API usage examples
 0420. 🚀 perf: reduce image load time
+0888. 🚀 perf: lazy-load components
