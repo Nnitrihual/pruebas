@@ -57,3 +57,4 @@
 0888. 🚀 perf: lazy-load components
 0135. ✅ test: test user registration edge cases
 0444. ✅ test: add unit test for quiz service
+0279. ✨ feat: support email verification
