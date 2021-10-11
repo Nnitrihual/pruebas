@@ -458,3 +458,4 @@
 0695. ✨ feat: create admin dashboard
 0461. ✨ feat: add user authentication
 0351. ✨ feat: add export to CSV option
+0339. 📚 docs: update README with setup steps
