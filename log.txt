@@ -467,3 +467,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0455. ♻️ chore: clean up unused files
 0667. ✨ feat: add export to CSV option
+0077. ♻️ chore: rename env.example
