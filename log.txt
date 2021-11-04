@@ -468,3 +468,4 @@
 0455. ♻️ chore: clean up unused files
 0667. ✨ feat: add export to CSV option
 0077. ♻️ chore: rename env.example
+0112. ✨ feat: enable dark mode toggle
