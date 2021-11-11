@@ -470,3 +470,4 @@
 0077. ♻️ chore: rename env.example
 0112. ✨ feat: enable dark mode toggle
 0464. 🎨 style: remove trailing whitespace
+0437. 📚 docs: clarify environment setup
