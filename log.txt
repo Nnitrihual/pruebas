@@ -472,3 +472,4 @@
 0464. 🎨 style: remove trailing whitespace
 0437. 📚 docs: clarify environment setup
 0114. ♻️ chore: update .gitignore
+0192. ✨ feat: enable dark mode toggle
