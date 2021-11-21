@@ -78,3 +78,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0267. 📚 docs: improve code comments in utils
 0624. ✅ test: add unit test for quiz service
+0842. 🎨 style: remove trailing whitespace
