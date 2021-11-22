@@ -475,3 +475,4 @@
 0192. ✨ feat: enable dark mode toggle
 0632. 🎨 style: remove trailing whitespace
 0364. 🐛 fix: resolve issue with date parsing
+0542. 🔧 refactor: organize models into subfolders
