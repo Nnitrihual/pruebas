@@ -80,3 +80,4 @@
 0624. ✅ test: add unit test for quiz service
 0842. 🎨 style: remove trailing whitespace
 0712. 🎨 style: apply consistent indentation
+0074. ♻️ chore: add GitHub actions badge
