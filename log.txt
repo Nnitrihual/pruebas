@@ -84,3 +84,4 @@
 0077. ♻️ chore: rename env.example
 0622. 🎨 style: apply consistent indentation
 0852. ✨ feat: enable dark mode toggle
+0559. 🔧 refactor: split large controller into smaller functions
