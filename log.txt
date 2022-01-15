@@ -88,3 +88,4 @@
 0122. ✨ feat: support email verification
 0131. 📚 docs: write FAQ section
 0079. 🐛 fix: correct typo in registration form
+0970. ♻️ chore: update .gitignore
