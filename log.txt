@@ -90,3 +90,4 @@
 0079. 🐛 fix: correct typo in registration form
 0970. ♻️ chore: update .gitignore
 0552. 🐛 fix: fix null pointer exception on login
+0874. 🔧 refactor: split large controller into smaller functions
