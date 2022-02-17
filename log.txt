@@ -496,3 +496,4 @@
 0253. 📚 docs: update README with setup steps
 0302. ✨ feat: implement quiz timer feature
 0836. 🚀 perf: optimize database query for quiz results
+0291. 📚 docs: write FAQ section
