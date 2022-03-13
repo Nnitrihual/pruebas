@@ -94,3 +94,4 @@
 0694. 🎨 style: rename variables for clarity
 0384. 📚 docs: clarify environment setup
 0260. ✨ feat: create admin dashboard
+0790. 📚 docs: write FAQ section
