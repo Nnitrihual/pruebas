@@ -95,3 +95,4 @@
 0384. 📚 docs: clarify environment setup
 0260. ✨ feat: create admin dashboard
 0790. 📚 docs: write FAQ section
+0623. 🎨 style: standardize quote style
