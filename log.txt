@@ -96,3 +96,4 @@
 0260. ✨ feat: create admin dashboard
 0790. 📚 docs: write FAQ section
 0623. 🎨 style: standardize quote style
+0403. ✅ test: mock database connection in test suite
