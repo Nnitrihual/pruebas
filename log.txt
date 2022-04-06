@@ -512,3 +512,4 @@
 0377. ✨ feat: add user authentication
 0342. 🚀 perf: cache repeated calculations
 0939. 📚 docs: update README with setup steps
+0597. 🚀 perf: cache repeated calculations
