@@ -522,3 +522,4 @@
 0238. 🎨 style: apply consistent indentation
 0560. 🎨 style: rename variables for clarity
 0323. 📚 docs: clarify environment setup
+0564. 📚 docs: clarify environment setup
