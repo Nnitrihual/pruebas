@@ -523,3 +523,4 @@
 0560. 🎨 style: rename variables for clarity
 0323. 📚 docs: clarify environment setup
 0564. 📚 docs: clarify environment setup
+0797. 📚 docs: add API usage examples
