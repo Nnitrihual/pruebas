@@ -111,3 +111,4 @@
 0627. 📚 docs: document token refresh logic
 0815. 🔧 refactor: split large controller into smaller functions
 0374. 🎨 style: standardize quote style
+0040. 🔧 refactor: clean up auth middleware
