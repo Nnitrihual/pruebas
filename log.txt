@@ -529,3 +529,4 @@
 0199. ✨ feat: create admin dashboard
 0024. 📚 docs: write FAQ section
 0162. ♻️ chore: add GitHub actions badge
+0854. ♻️ chore: rename env.example
