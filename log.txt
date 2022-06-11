@@ -530,3 +530,4 @@
 0024. 📚 docs: write FAQ section
 0162. ♻️ chore: add GitHub actions badge
 0854. ♻️ chore: rename env.example
+0093. ✅ test: add unit test for quiz service
