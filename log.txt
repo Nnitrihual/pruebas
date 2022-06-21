@@ -120,3 +120,4 @@
 0494. 🎨 style: rename variables for clarity
 0471. ✨ feat: support email verification
 0889. 🚀 perf: lazy-load components
+0571. 🔧 refactor: clean up auth middleware
