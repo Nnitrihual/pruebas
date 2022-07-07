@@ -535,3 +535,4 @@
 0438. ♻️ chore: bump dependencies
 0962. ✨ feat: create admin dashboard
 0389. 📚 docs: improve code comments in utils
+0688. 🚀 perf: reduce image load time
