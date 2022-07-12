@@ -536,3 +536,4 @@
 0962. ✨ feat: create admin dashboard
 0389. 📚 docs: improve code comments in utils
 0688. 🚀 perf: reduce image load time
+0988. 🐛 fix: fix broken CSS in mobile view
