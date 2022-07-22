@@ -542,3 +542,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0251. ♻️ chore: update .gitignore
 0083. 🎨 style: reformat files with black
+0653. 🐛 fix: prevent crash on empty input
