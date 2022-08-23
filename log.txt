@@ -550,3 +550,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0472. 🐛 fix: fix null pointer exception on login
 0371. ✅ test: add integration test for /submit endpoint
+0585. 🚀 perf: lazy-load components
