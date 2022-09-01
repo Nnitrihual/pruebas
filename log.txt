@@ -139,3 +139,4 @@
 0597. 🚀 perf: cache repeated calculations
 0993. ✨ feat: implement quiz timer feature
 0928. 🎨 style: apply consistent indentation
+0344. ♻️ chore: add GitHub actions badge
