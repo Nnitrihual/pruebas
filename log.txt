@@ -141,3 +141,4 @@
 0928. 🎨 style: apply consistent indentation
 0344. ♻️ chore: add GitHub actions badge
 0693. 📚 docs: add API usage examples
+0068. 🐛 fix: fix null pointer exception on login
