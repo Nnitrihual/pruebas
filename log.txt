@@ -555,3 +555,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0751. 🐛 fix: handle 500 error in quiz API
 0357. ✅ test: add unit test for quiz service
+0268. 🐛 fix: prevent crash on empty input
