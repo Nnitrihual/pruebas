@@ -558,3 +558,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0857. 🎨 style: rename variables for clarity
 0703. 🔧 refactor: clean up auth middleware
+0131. 📚 docs: write FAQ section
