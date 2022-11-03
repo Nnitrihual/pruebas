@@ -567,3 +567,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0104. 🎨 style: apply consistent indentation
 0546. 🐛 fix: fix null pointer exception on login
+0074. ♻️ chore: add GitHub actions badge
