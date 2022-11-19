@@ -573,3 +573,4 @@
 0262. 🎨 style: remove trailing whitespace
 0868. ✅ test: add unit test for quiz service
 0485. 📚 docs: update README with setup steps
+0589. 🐛 fix: fix broken CSS in mobile view
