@@ -155,3 +155,4 @@
 0458. ✨ feat: create admin dashboard
 0489. 🔧 refactor: organize models into subfolders
 0960. ✅ test: increase coverage on auth module
+0439. 🐛 fix: correct typo in registration form
