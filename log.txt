@@ -156,3 +156,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0960. ✅ test: increase coverage on auth module
 0439. 🐛 fix: correct typo in registration form
+0885. ♻️ chore: update .gitignore
