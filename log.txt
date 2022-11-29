@@ -576,3 +576,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0811. 🎨 style: reformat files with black
 0361. ✨ feat: support email verification
+0827. 🚀 perf: optimize database query for quiz results
