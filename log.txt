@@ -159,3 +159,4 @@
 0885. ♻️ chore: update .gitignore
 0961. 📚 docs: add API usage examples
 0535. 📚 docs: write FAQ section
+0533. ♻️ chore: add GitHub actions badge
