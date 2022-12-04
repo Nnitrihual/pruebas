@@ -579,3 +579,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0662. ♻️ chore: clean up unused files
 0670. ✨ feat: add export to CSV option
+0118. 🚀 perf: reduce image load time
