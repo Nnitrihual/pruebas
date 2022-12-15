@@ -164,3 +164,4 @@
 0663. 🚀 perf: reduce image load time
 0470. 🎨 style: remove trailing whitespace
 0917. ✅ test: add integration test for /submit endpoint
+0281. ✨ feat: support email verification
