@@ -582,3 +582,4 @@
 0118. 🚀 perf: reduce image load time
 0702. ✨ feat: add user authentication
 0855. 🎨 style: reformat files with black
+0100. ♻️ chore: update .gitignore
