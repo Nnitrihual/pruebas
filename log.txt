@@ -592,3 +592,4 @@
 0567. 📚 docs: add API usage examples
 0878. 🔧 refactor: split large controller into smaller functions
 0354. 📚 docs: add API usage examples
+0107. 🐛 fix: prevent crash on empty input
