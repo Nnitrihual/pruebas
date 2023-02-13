@@ -597,3 +597,4 @@
 0943. 🎨 style: rename variables for clarity
 0888. 🚀 perf: lazy-load components
 0710. 🐛 fix: fix broken CSS in mobile view
+0765. ♻️ chore: clean up unused files
