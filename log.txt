@@ -173,3 +173,4 @@
 0939. 📚 docs: update README with setup steps
 0393. 🚀 perf: lazy-load components
 0949. 📚 docs: write FAQ section
+0189. 📚 docs: clarify environment setup
