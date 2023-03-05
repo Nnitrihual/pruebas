@@ -175,3 +175,4 @@
 0949. 📚 docs: write FAQ section
 0189. 📚 docs: clarify environment setup
 0588. 🔧 refactor: organize models into subfolders
+0956. 📚 docs: clarify environment setup
