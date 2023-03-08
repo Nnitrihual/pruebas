@@ -600,3 +600,4 @@
 0765. ♻️ chore: clean up unused files
 0076. 🎨 style: reformat files with black
 0045. 🎨 style: apply consistent indentation
+0996. ✅ test: test user registration edge cases
