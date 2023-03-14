@@ -601,3 +601,4 @@
 0076. 🎨 style: reformat files with black
 0045. 🎨 style: apply consistent indentation
 0996. ✅ test: test user registration edge cases
+0604. 📚 docs: add API usage examples
