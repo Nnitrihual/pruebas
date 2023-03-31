@@ -180,3 +180,4 @@
 0055. 📚 docs: update README with setup steps
 0892. ✅ test: add unit test for quiz service
 0811. 🎨 style: reformat files with black
+0001. 🚀 perf: cache repeated calculations
