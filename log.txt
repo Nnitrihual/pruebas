@@ -608,3 +608,4 @@
 0543. ✨ feat: support email verification
 0533. ♻️ chore: add GitHub actions badge
 0123. ✨ feat: implement quiz timer feature
+0491. 🚀 perf: lazy-load components
