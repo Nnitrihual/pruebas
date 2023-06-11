@@ -190,3 +190,4 @@
 0631. ✨ feat: create admin dashboard
 0351. ✨ feat: add export to CSV option
 0088. 📚 docs: add API usage examples
+0673. 🐛 fix: correct typo in registration form
