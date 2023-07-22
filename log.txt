@@ -201,3 +201,4 @@
 0052. 🎨 style: standardize quote style
 0507. 🔧 refactor: clean up auth middleware
 0818. 🔧 refactor: remove redundant code blocks
+0050. ✨ feat: enable dark mode toggle
