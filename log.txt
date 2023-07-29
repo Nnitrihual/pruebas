@@ -626,3 +626,4 @@
 0035. ✅ test: increase coverage on auth module
 0849. 🐛 fix: correct typo in registration form
 0994. 🚀 perf: reduce image load time
+0265. 🎨 style: reformat files with black
