@@ -629,3 +629,4 @@
 0265. 🎨 style: reformat files with black
 0175. 📚 docs: add API usage examples
 0825. 🔧 refactor: split large controller into smaller functions
+0391. 🐛 fix: fix null pointer exception on login
