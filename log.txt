@@ -633,3 +633,4 @@
 0161. ✨ feat: create admin dashboard
 0512. 🚀 perf: reduce image load time
 0492. 🎨 style: remove trailing whitespace
+0088. 📚 docs: add API usage examples
