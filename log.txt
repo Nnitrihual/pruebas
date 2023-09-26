@@ -639,3 +639,4 @@
 0756. ✨ feat: support email verification
 0256. ✅ test: mock database connection in test suite
 0607. 🐛 fix: prevent crash on empty input
+0450. 🐛 fix: fix broken CSS in mobile view
