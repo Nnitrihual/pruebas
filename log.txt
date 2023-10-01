@@ -642,3 +642,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0453. 🎨 style: standardize quote style
 0875. ✅ test: increase coverage on auth module
+0502. 📚 docs: update README with setup steps
