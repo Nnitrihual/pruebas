@@ -227,3 +227,4 @@
 0553. 🐛 fix: correct typo in registration form
 0942. ✅ test: increase coverage on auth module
 0847. ♻️ chore: clean up unused files
+0577. ✨ feat: implement quiz timer feature
