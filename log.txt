@@ -649,3 +649,4 @@
 0471. ✨ feat: support email verification
 0690. 🚀 perf: lazy-load components
 0322. 🔧 refactor: split large controller into smaller functions
+0821. ✅ test: add integration test for /submit endpoint
