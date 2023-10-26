@@ -229,3 +229,4 @@
 0847. ♻️ chore: clean up unused files
 0577. ✨ feat: implement quiz timer feature
 0092. 🚀 perf: reduce image load time
+0568. 🐛 fix: handle 500 error in quiz API
