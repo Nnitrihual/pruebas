@@ -235,3 +235,4 @@
 0991. ♻️ chore: clean up unused files
 0652. 🔧 refactor: organize models into subfolders
 0762. 🚀 perf: lazy-load components
+0096. 🐛 fix: prevent crash on empty input
