@@ -239,3 +239,4 @@
 0090. ✅ test: increase coverage on auth module
 0097. 🐛 fix: handle 500 error in quiz API
 0453. 🎨 style: standardize quote style
+0168. ✅ test: add integration test for /submit endpoint
