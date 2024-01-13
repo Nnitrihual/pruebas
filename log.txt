@@ -245,3 +245,4 @@
 0106. 🎨 style: reformat files with black
 0635. 🎨 style: apply consistent indentation
 0361. ✨ feat: support email verification
+0717. 🔧 refactor: refactor quiz grading logic
