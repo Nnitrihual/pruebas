@@ -669,3 +669,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0329. 📚 docs: update README with setup steps
 0156. 🎨 style: rename variables for clarity
+0661. ✅ test: add integration test for /submit endpoint
