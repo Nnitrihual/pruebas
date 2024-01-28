@@ -250,3 +250,4 @@
 0616. 🚀 perf: lazy-load components
 0992. ♻️ chore: clean up unused files
 0299. 🐛 fix: resolve issue with date parsing
+0249. ✅ test: increase coverage on auth module
