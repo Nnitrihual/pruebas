@@ -252,3 +252,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0249. ✅ test: increase coverage on auth module
 0896. 🚀 perf: reduce image load time
+0772. 🐛 fix: fix null pointer exception on login
