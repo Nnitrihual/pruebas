@@ -678,3 +678,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0727. ♻️ chore: add GitHub actions badge
 0678. ✨ feat: add user authentication
+0671. 🐛 fix: fix null pointer exception on login
