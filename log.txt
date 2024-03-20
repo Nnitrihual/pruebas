@@ -682,3 +682,4 @@
 0525. ✅ test: mock database connection in test suite
 0333. 🚀 perf: cache repeated calculations
 0466. 🚀 perf: optimize database query for quiz results
+0829. 🔧 refactor: organize models into subfolders
