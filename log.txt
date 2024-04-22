@@ -265,3 +265,4 @@
 0682. ♻️ chore: rename env.example
 0014. 🔧 refactor: remove redundant code blocks
 0850. ♻️ chore: rename env.example
+0502. 📚 docs: update README with setup steps
