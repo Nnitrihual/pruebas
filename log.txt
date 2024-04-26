@@ -267,3 +267,4 @@
 0850. ♻️ chore: rename env.example
 0502. 📚 docs: update README with setup steps
 0867. 🔧 refactor: refactor quiz grading logic
+0603. 🐛 fix: fix broken CSS in mobile view
