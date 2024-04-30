@@ -269,3 +269,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0603. 🐛 fix: fix broken CSS in mobile view
 0906. 📚 docs: add API usage examples
+0736. 🐛 fix: fix null pointer exception on login
