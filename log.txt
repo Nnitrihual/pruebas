@@ -694,3 +694,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0202. 🔧 refactor: refactor quiz grading logic
 0139. 📚 docs: document token refresh logic
+0367. 🐛 fix: fix null pointer exception on login
