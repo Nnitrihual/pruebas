@@ -271,3 +271,4 @@
 0906. 📚 docs: add API usage examples
 0736. 🐛 fix: fix null pointer exception on login
 0451. ✨ feat: support email verification
+0076. 🎨 style: reformat files with black
