@@ -273,3 +273,4 @@
 0451. ✨ feat: support email verification
 0076. 🎨 style: reformat files with black
 0235. 🐛 fix: fix null pointer exception on login
+0467. ✅ test: add integration test for /submit endpoint
