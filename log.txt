@@ -275,3 +275,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0467. ✅ test: add integration test for /submit endpoint
 0555. ✨ feat: create admin dashboard
+0640. ♻️ chore: bump dependencies
