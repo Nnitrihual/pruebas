@@ -279,3 +279,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0990. ♻️ chore: rename env.example
 0573. ✅ test: add integration test for /submit endpoint
+0428. 🐛 fix: fix null pointer exception on login
