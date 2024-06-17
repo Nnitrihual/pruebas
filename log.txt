@@ -703,3 +703,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0146. 🎨 style: apply consistent indentation
 0535. 📚 docs: write FAQ section
+0101. 📚 docs: clarify environment setup
