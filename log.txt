@@ -284,3 +284,4 @@
 0312. ✨ feat: add user authentication
 0946. ✅ test: add unit test for quiz service
 0389. 📚 docs: improve code comments in utils
+0371. ✅ test: add integration test for /submit endpoint
