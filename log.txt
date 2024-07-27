@@ -714,3 +714,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0349. ✅ test: increase coverage on auth module
 0065. ✅ test: add integration test for /submit endpoint
+0363. 📚 docs: clarify environment setup
