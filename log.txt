@@ -717,3 +717,4 @@
 0363. 📚 docs: clarify environment setup
 0029. 🚀 perf: lazy-load components
 0434. 📚 docs: document token refresh logic
+0646. ✅ test: test user registration edge cases
