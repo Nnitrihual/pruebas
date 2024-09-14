@@ -722,3 +722,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0182. 🔧 refactor: remove redundant code blocks
 0425. 🔧 refactor: refactor quiz grading logic
+0283. ♻️ chore: add GitHub actions badge
