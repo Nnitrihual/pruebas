@@ -729,3 +729,4 @@
 0768. 🎨 style: remove trailing whitespace
 0062. ♻️ chore: update .gitignore
 0306. 🎨 style: apply consistent indentation
+0059. ♻️ chore: bump dependencies
