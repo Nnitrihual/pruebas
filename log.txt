@@ -310,3 +310,4 @@
 0091. ✨ feat: add user authentication
 0166. 🚀 perf: cache repeated calculations
 0230. ✨ feat: create admin dashboard
+0749. ✨ feat: support email verification
