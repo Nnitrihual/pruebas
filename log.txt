@@ -313,3 +313,4 @@
 0749. ✨ feat: support email verification
 0948. 🐛 fix: fix broken CSS in mobile view
 0644. 🎨 style: apply consistent indentation
+0523. ♻️ chore: bump dependencies
