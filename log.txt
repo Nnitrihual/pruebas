@@ -318,3 +318,4 @@
 0924. ✅ test: mock database connection in test suite
 0582. ✨ feat: add export to CSV option
 0687. 🎨 style: remove trailing whitespace
+0953. 🎨 style: remove trailing whitespace
