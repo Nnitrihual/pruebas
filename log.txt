@@ -323,3 +323,4 @@
 0329. 📚 docs: update README with setup steps
 0683. ✅ test: mock database connection in test suite
 0765. ♻️ chore: clean up unused files
+0198. 📚 docs: clarify environment setup
