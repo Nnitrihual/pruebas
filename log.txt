@@ -331,3 +331,4 @@
 0614. 🚀 perf: reduce image load time
 0730. ✅ test: test user registration edge cases
 0767. 🔧 refactor: remove redundant code blocks
+0259. 🚀 perf: lazy-load components
