@@ -801,3 +801,4 @@
 0204. 🎨 style: standardize quote style
 0249. ✅ test: increase coverage on auth module
 0654. ✨ feat: create admin dashboard
+0206. 🐛 fix: handle 500 error in quiz API
