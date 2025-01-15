@@ -799,3 +799,4 @@
 0115. 🚀 perf: reduce image load time
 0433. 🐛 fix: prevent crash on empty input
 0204. 🎨 style: standardize quote style
+0249. ✅ test: increase coverage on auth module
