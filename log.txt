@@ -816,3 +816,5 @@
 0306. 🎨 style: apply consistent indentation
 0260. ✨ feat: create admin dashboard
 0427. ✅ test: mock database connection in test suite
+0790. 📚 docs: write FAQ section
+0617. ✨ feat: support email verification
