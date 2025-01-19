@@ -334,3 +334,4 @@
 0259. 🚀 perf: lazy-load components
 0708. ✅ test: add integration test for /submit endpoint
 0823. ✨ feat: add user authentication
+0218. 🔧 refactor: clean up auth middleware
