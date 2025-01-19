@@ -806,3 +806,4 @@
 0730. ✅ test: test user registration edge cases
 0828. ♻️ chore: add GitHub actions badge
 0439. 🐛 fix: correct typo in registration form
+0846. ✨ feat: implement quiz timer feature
