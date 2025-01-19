@@ -808,3 +808,4 @@
 0439. 🐛 fix: correct typo in registration form
 0846. ✨ feat: implement quiz timer feature
 0831. 📚 docs: clarify environment setup
+0395. 📚 docs: write FAQ section
