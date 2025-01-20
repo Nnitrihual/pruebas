@@ -811,3 +811,4 @@
 0395. 📚 docs: write FAQ section
 0272. 🔧 refactor: remove redundant code blocks
 0700. 🎨 style: rename variables for clarity
+0890. 🔧 refactor: organize models into subfolders
