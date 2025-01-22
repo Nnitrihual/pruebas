@@ -820,3 +820,4 @@
 0617. ✨ feat: support email verification
 0353. ♻️ chore: rename env.example
 0119. 📚 docs: improve code comments in utils
+0228. 🔧 refactor: remove redundant code blocks
