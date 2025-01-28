@@ -338,3 +338,4 @@
 0596. ♻️ chore: update .gitignore
 0063. 🐛 fix: handle 500 error in quiz API
 0491. 🚀 perf: lazy-load components
+0402. 🎨 style: reformat files with black
