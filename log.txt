@@ -341,3 +341,4 @@
 0402. 🎨 style: reformat files with black
 0901. ✨ feat: add user authentication
 0136. 🚀 perf: lazy-load components
+0926. 🔧 refactor: organize models into subfolders
