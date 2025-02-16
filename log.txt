@@ -829,3 +829,4 @@
 0686. 🎨 style: standardize quote style
 0658. 🎨 style: rename variables for clarity
 0354. 📚 docs: add API usage examples
+0738. 🐛 fix: prevent crash on empty input
