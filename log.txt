@@ -347,3 +347,4 @@
 0648. ♻️ chore: bump dependencies
 0566. 📚 docs: write FAQ section
 0401. 🚀 perf: reduce image load time
+0461. ✨ feat: add user authentication
