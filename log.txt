@@ -353,3 +353,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0152. ✨ feat: add user authentication
 0033. 🎨 style: apply consistent indentation
+0346. ✅ test: mock database connection in test suite
