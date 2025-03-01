@@ -760,3 +760,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0884. 📚 docs: clarify environment setup
 0338. ♻️ chore: add GitHub actions badge
+0599. ✅ test: test user registration edge cases
