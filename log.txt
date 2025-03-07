@@ -831,3 +831,4 @@
 0354. 📚 docs: add API usage examples
 0738. 🐛 fix: prevent crash on empty input
 0842. 🎨 style: remove trailing whitespace
+0631. ✨ feat: create admin dashboard
