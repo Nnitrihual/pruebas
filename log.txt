@@ -832,3 +832,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0842. 🎨 style: remove trailing whitespace
 0631. ✨ feat: create admin dashboard
+0112. ✨ feat: enable dark mode toggle
