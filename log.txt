@@ -762,3 +762,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0599. ✅ test: test user registration edge cases
 0198. 📚 docs: clarify environment setup
+0880. 🐛 fix: fix broken CSS in mobile view
