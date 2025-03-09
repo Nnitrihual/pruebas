@@ -833,3 +833,4 @@
 0842. 🎨 style: remove trailing whitespace
 0631. ✨ feat: create admin dashboard
 0112. ✨ feat: enable dark mode toggle
+0201. 🔧 refactor: clean up auth middleware
