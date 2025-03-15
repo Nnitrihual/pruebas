@@ -355,3 +355,4 @@
 0033. 🎨 style: apply consistent indentation
 0346. ✅ test: mock database connection in test suite
 0035. ✅ test: increase coverage on auth module
+0497. 🔧 refactor: refactor quiz grading logic
