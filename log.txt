@@ -357,3 +357,4 @@
 0035. ✅ test: increase coverage on auth module
 0497. 🔧 refactor: refactor quiz grading logic
 0356. 📚 docs: write FAQ section
+0840. 🔧 refactor: refactor quiz grading logic
