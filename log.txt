@@ -839,3 +839,4 @@
 0444. ✅ test: add unit test for quiz service
 0907. 🔧 refactor: split large controller into smaller functions
 0359. 🔧 refactor: clean up auth middleware
+0219. ✅ test: increase coverage on auth module
