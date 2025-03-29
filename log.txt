@@ -360,3 +360,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0016. 🎨 style: apply consistent indentation
 0438. ♻️ chore: bump dependencies
+0226. 🚀 perf: lazy-load components
