@@ -846,3 +846,4 @@
 0789. ✨ feat: create admin dashboard
 0102. ✨ feat: support email verification
 0883. 📚 docs: improve code comments in utils
+0394. 🚀 perf: lazy-load components
