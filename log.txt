@@ -848,3 +848,4 @@
 0883. 📚 docs: improve code comments in utils
 0394. 🚀 perf: lazy-load components
 0581. ✅ test: add integration test for /submit endpoint
+0836. 🚀 perf: optimize database query for quiz results
