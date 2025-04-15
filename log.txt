@@ -850,3 +850,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0836. 🚀 perf: optimize database query for quiz results
 0968. 🎨 style: standardize quote style
+0852. ✨ feat: enable dark mode toggle
