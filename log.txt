@@ -366,3 +366,4 @@
 0606. 📚 docs: improve code comments in utils
 0612. ✅ test: test user registration edge cases
 0509. ♻️ chore: bump dependencies
+0252. 🎨 style: remove trailing whitespace
