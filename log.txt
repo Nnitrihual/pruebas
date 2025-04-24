@@ -367,3 +367,4 @@
 0612. ✅ test: test user registration edge cases
 0509. ♻️ chore: bump dependencies
 0252. 🎨 style: remove trailing whitespace
+0029. 🚀 perf: lazy-load components
