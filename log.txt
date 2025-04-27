@@ -857,3 +857,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0950. 🎨 style: reformat files with black
 0821. ✅ test: add integration test for /submit endpoint
+0783. 🐛 fix: handle 500 error in quiz API
