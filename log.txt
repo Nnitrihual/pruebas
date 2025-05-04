@@ -860,3 +860,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0042. 📚 docs: document token refresh logic
 0191. 🔧 refactor: refactor quiz grading logic
+0751. 🐛 fix: handle 500 error in quiz API
