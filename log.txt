@@ -776,3 +776,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0766. 🎨 style: reformat files with black
 0121. ✨ feat: support email verification
+0933. 📚 docs: clarify environment setup
