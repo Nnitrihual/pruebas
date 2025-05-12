@@ -863,3 +863,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0113. ✨ feat: add user authentication
 0431. 🎨 style: reformat files with black
+0387. ✨ feat: enable dark mode toggle
