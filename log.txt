@@ -778,3 +778,4 @@
 0121. ✨ feat: support email verification
 0933. 📚 docs: clarify environment setup
 0460. 📚 docs: write FAQ section
+0003. ✅ test: increase coverage on auth module
