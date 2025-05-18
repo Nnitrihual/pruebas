@@ -865,3 +865,4 @@
 0431. 🎨 style: reformat files with black
 0387. ✨ feat: enable dark mode toggle
 0454. ♻️ chore: bump dependencies
+0692. ✅ test: add integration test for /submit endpoint
