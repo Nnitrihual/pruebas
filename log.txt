@@ -868,3 +868,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0414. 🔧 refactor: remove redundant code blocks
 0326. 🚀 perf: cache repeated calculations
+0763. 🔧 refactor: organize models into subfolders
