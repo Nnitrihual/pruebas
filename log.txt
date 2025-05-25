@@ -782,3 +782,4 @@
 0679. ♻️ chore: bump dependencies
 0778. 📚 docs: write FAQ section
 0914. ✅ test: test user registration edge cases
+0738. 🐛 fix: prevent crash on empty input
