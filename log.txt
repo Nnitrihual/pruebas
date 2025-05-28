@@ -872,3 +872,4 @@
 0046. 🎨 style: rename variables for clarity
 0167. 🚀 perf: reduce image load time
 0720. ✨ feat: add export to CSV option
+0679. ♻️ chore: bump dependencies
