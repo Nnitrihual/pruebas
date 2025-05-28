@@ -379,3 +379,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0854. ♻️ chore: rename env.example
 0613. 🐛 fix: prevent crash on empty input
+0575. ✅ test: add unit test for quiz service
