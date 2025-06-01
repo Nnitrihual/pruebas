@@ -783,3 +783,4 @@
 0778. 📚 docs: write FAQ section
 0914. ✅ test: test user registration edge cases
 0738. 🐛 fix: prevent crash on empty input
+0260. ✨ feat: create admin dashboard
