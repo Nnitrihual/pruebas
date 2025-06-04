@@ -877,3 +877,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0541. 🐛 fix: correct typo in registration form
 0880. 🐛 fix: fix broken CSS in mobile view
+0557. 🔧 refactor: clean up auth middleware
