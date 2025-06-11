@@ -382,3 +382,4 @@
 0575. ✅ test: add unit test for quiz service
 0186. ✅ test: test user registration edge cases
 0550. 🔧 refactor: split large controller into smaller functions
+0208. 🔧 refactor: clean up auth middleware
