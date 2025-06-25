@@ -887,3 +887,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0991. ♻️ chore: clean up unused files
 0872. 🎨 style: rename variables for clarity
+0953. 🎨 style: remove trailing whitespace
