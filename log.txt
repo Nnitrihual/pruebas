@@ -387,3 +387,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0360. ✨ feat: add export to CSV option
 0518. ✨ feat: support email verification
+0139. 📚 docs: document token refresh logic
