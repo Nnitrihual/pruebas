@@ -793,3 +793,4 @@
 0930. 🎨 style: apply consistent indentation
 0629. 🔧 refactor: organize models into subfolders
 0575. ✅ test: add unit test for quiz service
+0344. ♻️ chore: add GitHub actions badge
