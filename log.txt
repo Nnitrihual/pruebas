@@ -391,3 +391,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0331. 🐛 fix: fix broken CSS in mobile view
 0205. 📚 docs: update README with setup steps
+0580. ♻️ chore: bump dependencies
