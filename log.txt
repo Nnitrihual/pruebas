@@ -393,3 +393,4 @@
 0205. 📚 docs: update README with setup steps
 0580. ♻️ chore: bump dependencies
 0388. 🎨 style: reformat files with black
+0632. 🎨 style: remove trailing whitespace
