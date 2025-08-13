@@ -904,3 +904,4 @@
 0376. 🎨 style: apply consistent indentation
 0087. ✨ feat: add export to CSV option
 0472. 🐛 fix: fix null pointer exception on login
+0485. 📚 docs: update README with setup steps
