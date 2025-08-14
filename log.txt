@@ -394,3 +394,4 @@
 0580. ♻️ chore: bump dependencies
 0388. 🎨 style: reformat files with black
 0632. 🎨 style: remove trailing whitespace
+0005. ✅ test: add unit test for quiz service
