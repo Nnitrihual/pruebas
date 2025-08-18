@@ -910,3 +910,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0445. 📚 docs: improve code comments in utils
 0214. 📚 docs: improve code comments in utils
+0888. 🚀 perf: lazy-load components
