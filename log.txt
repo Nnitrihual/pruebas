@@ -395,3 +395,4 @@
 0388. 🎨 style: reformat files with black
 0632. 🎨 style: remove trailing whitespace
 0005. ✅ test: add unit test for quiz service
+0929. ✨ feat: support email verification
